@@ -1,0 +1,22 @@
+
+#second,#second th, #second td {
+  border: 1px solid black;
+}
+
+#second {
+  border-collapse: collapse;
+}
+
+
+#third tr:nth-child(1) th{
+  border: 1px solid black;
+  border-bottom: 2px solid green;
+}
+
+#third{
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: #66A8BE;
+
+  
+}

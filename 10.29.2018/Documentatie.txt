@@ -1,0 +1,8 @@
+https://developer.mozilla.org/ro/
+https://www.w3schools.com/
+https://css-tricks.com/
+https://stackoverflow.com/
+https://codepen.io/
+https://www.w3.org/
+
+cristian.constantinescu@itstep.org

@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	color: #B1B1B1;
+	font-size: 17px;
+	margin: 0;
+}
+div {
+	border: 3px solid #DB3263;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #DB3263;
+    border-radius: 5px;
+}
+div:hover {
+	background: #DB3263;
+	color: white;
+}
+.bold {
+	font-weight: 900;
+}
+h1 {	
+    color: #DB3263;
+    font-size: 77px;
+    margin: 0;
+}

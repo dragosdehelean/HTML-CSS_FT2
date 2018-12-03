@@ -1,0 +1,144 @@
+* {
+	text-align: center;
+	color: #B1B1B1;
+	font-size: 17px;
+    margin: 0;
+    line-height: 20px;
+} 
+
+/* Partea 1 Start */
+.petreceri h1 {
+    color: #db3061;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.private {
+    color: #db3061;
+    font-size: 33px;
+    line-height: 33px;
+    font-weight: 400;
+}
+
+#buton {
+    border: 5px solid #db3061;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#buton:hover {
+    background: #db3061;
+    color: white;
+}
+
+/* Partea 1 End */
+
+/* Partea 2 Start */
+
+.cursuri {
+    line-height: 16px;
+    
+}
+
+.cursuri h1 {
+    color: black;
+    font-weight: 400;
+}
+
+#buton2 {
+    border: 5px solid black;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#buton2:hover {
+    border-color: #DB3162;
+    color: #DB3162;
+}
+
+/* Partea 2 End */
+
+/* Partea 3 Start */
+
+.descopera {
+    line-height: 19px;
+}
+
+.descopera h1 {
+    color: #db3061;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.descopera p {
+    font-size: 14px;
+}
+
+/* Partea 3 End */
+
+/* Part 4 Start */
+
+#stanga {
+    float: left;
+    margin: 20px;
+   padding: 20px;    
+}
+
+#stanga ul li {
+color: black;
+list-style: none;
+display: list-item; 
+}
+
+#centru {
+    float: left;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;  
+}
+
+#centru ul li {
+    color: black;
+    list-style: none;
+    display: list-item; 
+    }
+
+#dreapta {
+ float: left;
+ text-align: center;
+ margin: 20px;
+ padding: 20px;  
+}
+
+#dreapta ul li {
+    color: black;
+    list-style: none;
+    display: list-item; 
+    }
+
+#dreapta .bold {
+    font-weight: 700;
+    line-height: 18px;
+    color: #ea96b8
+}
+
+#buton3 {
+    border: 5px solid #db3061;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 10px 20px;
+    color: black;
+
+
+}
+
+#buton3:hover {
+    background: #db3061;
+    color: white;
+}
+
+

@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+p {
+  color: rgb(35, 165, 197);  
+}
+
+p#second {
+  color:pink;
+  
+}
