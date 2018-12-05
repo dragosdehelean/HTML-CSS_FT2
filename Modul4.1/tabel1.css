@@ -1,0 +1,8 @@
+
+div#container { 
+  background-image: url(mountain.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  background-color: rgba(0, 183, 255, 0.5)
+}
