@@ -5,11 +5,12 @@ Trainer: @Dragos Dehelean
 ## Studenti:
 
 * [Alex](https://github.com/mrtornado/stepit) 
-* [Mario](https://github.com/Thunder889/Step-IT/tree/master)
-* [Alina](https://github.com/AlinaDumitru2018/HTML_CSS/tree/master/3.1)
+* [Mario](https://github.com/Thunder889/Step-IT/)
+* [Alina](https://github.com/AlinaDumitru2018/HTML-CSS_Projects)
 * [Bogdan]()
 * [Catalin](https://github.com/mcata97/StepIT)
 * [Yağız](https://github.com/renown93/Stepit2018)
 * [Mihaela]()
 * [Marius]()
+* [Adrian]()
 
