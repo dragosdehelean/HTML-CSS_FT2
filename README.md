@@ -7,7 +7,7 @@ Trainer: @Dragos Dehelean
 * [Alex](https://github.com/mrtornado/stepit) 
 * [Mario](https://github.com/Thunder889/Step-IT/)
 * [Alina](https://github.com/AlinaDumitru2018/HTML-CSS_Projects)
-* [Bogdan]()
+* [Bogdan](https://github.com/hutustepit/HTML_CSS_FT2)
 * [Catalin](https://github.com/mcata97/StepIT)
 * [Yağız](https://github.com/renown93/Stepit2018)
 * [Mihaela](https://github.com/MihaSarbu/HTML-CSS)
