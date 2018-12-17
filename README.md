@@ -10,7 +10,7 @@ Trainer: @Dragos Dehelean
 * [Bogdan]()
 * [Catalin](https://github.com/mcata97/StepIT)
 * [Yağız](https://github.com/renown93/Stepit2018)
-* [Mihaela]()
+* [Mihaela](https://github.com/MihaSarbu/HTML-CSS)
 * [Marius]()
 * [Adrian]()
 
