@@ -45,7 +45,7 @@ article {
       to bottom,
       rgba(0, 0, 0, 0.2),
       rgba(0, 0, 0, 0) 20%,
-      rgba(0, 0, 0, 0) 80%,
+      rgba(0, 0, 0, 1) 80%,
       rgba(0, 0, 0, 0.2)
     ),
     url(top-image.png) no-repeat left top, url(bottom-image.png) no-repeat left bottom;
