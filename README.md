@@ -12,5 +12,5 @@ Trainer: @Dragos Dehelean
 * [Yağız](https://github.com/renown93/Stepit2018)
 * [Mihaela](https://github.com/MihaSarbu/HTML-CSS)
 * [Marius]()
-* [Adrian]()
+* [Adrian](https://github.com/Adrian240894/HTML-CSS)
 
